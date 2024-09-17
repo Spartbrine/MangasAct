@@ -31,3 +31,5 @@ C:\Users\honde\OneDrive\Azar\Documentos\UTM\CUARTO CUATRIMESTRE\APLICACIONES WEB
 C:\Users\honde\OneDrive\Azar\Documentos\UTM\CUARTO CUATRIMESTRE\APLICACIONES WEB\P1\MangasAct\obj\Debug\net8.0\MangasAct.pdb
 C:\Users\honde\OneDrive\Azar\Documentos\UTM\CUARTO CUATRIMESTRE\APLICACIONES WEB\P1\MangasAct\obj\Debug\net8.0\MangasAct.genruntimeconfig.cache
 C:\Users\honde\OneDrive\Azar\Documentos\UTM\CUARTO CUATRIMESTRE\APLICACIONES WEB\P1\MangasAct\obj\Debug\net8.0\ref\MangasAct.dll
+C:\Users\honde\OneDrive\Azar\Documentos\UTM\CUARTO CUATRIMESTRE\APLICACIONES WEB\P1\MangasAct\bin\Debug\net8.0\Infraestructure\Data\javerages.library.data.json
+C:\Users\honde\OneDrive\Azar\Documentos\UTM\CUARTO CUATRIMESTRE\APLICACIONES WEB\P1\MangasAct\obj\Debug\net8.0\MangasAct.sourcelink.json
