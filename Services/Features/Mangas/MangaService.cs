@@ -10,7 +10,7 @@ public class MangaService
 
     public MangaService(MangaRepositoryClass mangaRepository)
     {
-        this._mangaRepo = mangaRepository;
+        _mangaRepo = mangaRepository;
     }
 
     public IEnumerable<Mangas> getAll()
